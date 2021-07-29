@@ -1,4 +1,14 @@
-p {
+body {
+  padding: 10px;
+  }
+
+article {
+  padding: 10px;
+  background: #77b8da;
+  border-radius: 10px;
+  }
+
+h3 {
   color: #e4007f;
   background: #219ddd;
   }
