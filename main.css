@@ -1,15 +1,39 @@
+* {
+  
+}
+
 body {
   padding: 10px;
   background: #77b8da;
-  }
+}
 
 article {
   padding: 10px;
   background: #ffffff;
   border-radius: 10px;
-  }
+}
+
+h1 {
+  color: #333;
+}
 
 h3 {
   color: #e4007f;
   background: #219ddd;
-  }
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hober {
+  color: red;
+}
+
+a:active  {
+  color: yellow;
+}
