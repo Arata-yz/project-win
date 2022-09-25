@@ -1,0 +1,9 @@
+CACHE MANIFEST
+index.html
+app.js
+NETWORK:
+submit.cgi
+FALLBACK:
+/ offline.html
+SETTINGS:
+prefer-online
