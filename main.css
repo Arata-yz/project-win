@@ -12,6 +12,7 @@ header {
 
 .head1 {
   position: fixed;
+  width: 100%;
   background: orange;
 }
 
