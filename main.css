@@ -12,6 +12,10 @@ header {
   background: green;
 }
 
+.head1 {
+  background: orange;
+}
+
 article {
   padding: 10px;
   background: #ffffff;
