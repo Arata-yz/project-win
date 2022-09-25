@@ -7,6 +7,11 @@ body {
   background: #77b8da;
 }
 
+header {
+  padding: 10px;
+  background: green;
+}
+
 article {
   padding: 10px;
   background: #ffffff;
