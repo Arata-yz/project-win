@@ -15,6 +15,7 @@ header {
 .head1 {
   padding: 0px;
   margin: 10px;
+  min-height: 20px;
   background: orange;
 }
 
