@@ -17,6 +17,10 @@ header {
   background: orange;
 }
 
+.head2 {
+  display: flex;
+}
+
 article {
   padding: 10px;
   background: #ffffff;
