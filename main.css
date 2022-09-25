@@ -12,9 +12,6 @@ header {
 
 .head1 {
   position: fixed;
-  padding: 0px;
-  margin: 10px;
-  min-height: 20px;
   background: orange;
 }
 
