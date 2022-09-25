@@ -11,12 +11,12 @@ header {
   background: green;
 }
 
-.head1 {
+#head1 {
   width: 100%;
   background: orange;
 }
 
-.head2 {
+#head2 {
   display: flex;
 }
 
