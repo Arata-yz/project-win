@@ -37,10 +37,16 @@ div {
 }
 
 h1 {
+  column-span: all;
   color: #333;
 }
 
+h2 {
+  column-span: all;
+}
+
 h3 {
+  column-span: all;
   color: #e4007f;
   background: #219ddd;
 }
